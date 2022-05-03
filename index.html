@@ -4,10 +4,14 @@
 
   <!-- Basic Page Needs
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <meta charset="utf-8">
-  <title>Luis Almonacid</title>
-  <meta name="description" content="">
-  <meta name="author" content="Luis Almonacid">
+    <meta charset="utf-8">
+    <title>Luis Almonacid</title>
+    <meta name="description" content="">
+    <meta name="author" content="Luis Almonacid">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link href="//toert.github.io/Isolated-Bootstrap/versions/4.1.0/iso_bootstrap4.1.0min.css" rel="stylesheet">
+
+
 
   <!-- Mobile Specific Metas
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -15,7 +19,8 @@
 
   <!-- FONT
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Libre+Bodoni
+:400,300,600" rel="stylesheet" type="text/css">
 
   <!-- CSS
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -31,11 +36,63 @@
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <div class="container">
+    <div class="container">
     <div class="row">
-      <div class="one-half column" style="margin-top: 25%">
-        <h4>Basic Page</h4>
-        <p>This index.html page is a placeholder with the CSS, font and favicon. It's just waiting for you to add some content! If you need some help hit up the <a href="http://www.getskeleton.com">Skeleton documentation</a>.</p>
+      <div class="twelve columns" style="margin-top: 25%">
+        <h4>Luis Almonacid</h4>
+        <img class="u-max-full-width" src="images/self.jpg">
+        <p></p>
+      </div>
+    </div>
+    </div>
+<div class="container">
+<div class="bootstrap" id="google-forms-css">
+
+  <!-- loading -->
+  <div id="google-forms-css-loading">
+    <p>Loading…</p>
+  </div>
+
+  <div id="google-forms-css-main" style="display: none;">
+
+    <!-- header -->
+    <p>Please fill out the form below.</p>
+    <p class="text-danger">* Required</p>
+
+    <form id="google-forms-css-form"></form>
+
+    <!-- footer -->
+    <p><a href="privacy-policy.html">Privacy Policy</a></p>
+
+  </div>
+
+  <!-- confirmation -->
+  <div id="google-forms-css-confirmation" style="display: none;">
+    <p>Thanks!</p>
+  </div>
+
+</div>
+
+<script src="google-forms-css/google-forms-css.js"></script>
+<script>
+
+new googleFormsCSS({
+  formURL: 'https://docs.google.com/forms/d/e/1FAIpQLSe3QX4ZCAjEFpwBQz-XsuCGyfSI7C9M6tej0vqxSJ0KpeAABw/viewform?usp=sf_link',
+  // confirmationURL: 'confirmation.html', // optional
+  // placeholderText: 'Your answer', // optional
+});
+
+</script>
+<div class="section categories">
+    <div class="container">
+      
+      <div class="row">
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/clare_bridge.jpg">
+        </div>
+        <div class="one-half column category">
+          <img class="u-max-full-width" src="images/old_court.jpg">
+        </div>
       </div>
     </div>
   </div>
