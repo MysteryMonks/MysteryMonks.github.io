@@ -5,7 +5,6 @@
       value: Luis Almonacid
     - name: Location
       value: Brighton, London
-      
 - title: Experience
   type: time_table
   contents:
@@ -13,36 +12,29 @@
       institution: Somerset House Trust
       year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Contributing to the development of builds and programmes from inception to final presentation.
+        - Liaising with contractors and sponsors.
+        - Developing production schedules and specs.
+        - Running events on the night.
     - title: Junior Press Assistant
       institution: Bread and Butter PR
       year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+        - Collated and distributed press cuttings.
+        - Created campaign documents, updates, and reports.
+        - Created content and maintained social media platforms.
     - title: Bookshop Volunteer
       institution: Oxfam
       year: 2021 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Responsible for cashing-up and locking the shop at the end of the day.
+        - Managed the literary fiction section.
     - title: Co-President
       institution: Marlowe Society
       year: 2020 - 2022
       description:
-        - Description 1.
+        - Led a committee of a dozen members.
         - Description 2.
-
- 
 - title: Education
   type: time_table
   contents:
@@ -50,7 +42,7 @@
       institution: Clare College, Cambridge
       year: 2022
       description:
-         - "Dissertation; Words of Light: Henry James and Photography"
+         - "Dissertation: Words of Light - Henry James and Photography"
          - title: Final Year Modules
            contents:
             - American Literature
