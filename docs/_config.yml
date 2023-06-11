@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Luis_Books
 
 # Build settings
-remote_theme: al-folio
+remote_theme: hitchens
 plugins:
   - jekyll-feed
 
