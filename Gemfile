@@ -16,6 +16,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
+    gem 'libv8'
     gem 'mini_racer'
     gem 'unicode_utils'
 end
