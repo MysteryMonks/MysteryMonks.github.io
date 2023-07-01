@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://luisalmonacid.substack.com/'>Writer</a>. Producer. PR.
+subtitle: <b><a href='https://luisalmonacid.substack.com/'>Writer.</a></b> Producer. PR.
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Passionate about books, museums, and live performance, I'm beginning a career in the arts sector while also developing my writing. As part of the Creative Industry Placements programme with Somerset House, I am working at Bread and Butter PR on projects across the cultural industry. Have a look at  <a href='https://luisalmonacid.substack.com/'>'some marvelous experience'</a> to read my thoughts about culture and literature.
+Passionate about books, museums, and live performance, I'm beginning a career in the arts sector while also developing my writing. As part of the Creative Industry Placements programme with Somerset House, I am working at Bread and Butter PR on projects across the cultural industry. Have a look at  <b><a href='https://luisalmonacid.substack.com/'>'some marvelous experience'</a></b> to read my thoughts about culture and literature.
 
 <div id="custom-substack-embed"></div>
 
