@@ -15,5 +15,5 @@ nav_order: 5
     </div>
 </div>
 <div class="caption">
-    'Ghost Quartet' by Dave Malloy. Directed by Lily Blundell and Hayley Canham. Photography © 2021 <a href="https://www.iammariawoodford.com/">Maria Woodford.</a>
+    'Ghost Quartet' by Dave Malloy at the Corpus Playroom. Directed by Lily Blundell and Hayley Canham. Photography © 2021 <a href="https://www.iammariawoodford.com/">Maria Woodford.</a>
 </div>
