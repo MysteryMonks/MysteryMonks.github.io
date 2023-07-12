@@ -7,13 +7,13 @@ nav: false
 nav_order: 5
 ---
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-auto">
         {% include figure.html path="assets/img/IMG_0312.jpg" title="Ghost Quartet" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-auto">
         {% include figure.html path="assets/img/IMG_0339.jpg" title="Ghost Quartet" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-md-auto">
         {% include figure.html path="assets/img/IMG_0307.jpg" title="Ghost Quartet" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
