@@ -13,9 +13,6 @@ nav_order: 5
     <div class="col-md-auto">
         {% include figure.html path="assets/img/IMG_0339.jpg" title="Ghost Quartet" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-md-auto">
-        {% include figure.html path="assets/img/IMG_0307.jpg" title="Ghost Quartet" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 <div class="caption">
     'Ghost Quartet' by Dave Malloy. Directed by Lily Blundell and Hayley Canham. Photography © 2021 <a href="https://www.iammariawoodford.com/">Maria Woodford.</a>
