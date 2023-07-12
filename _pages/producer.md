@@ -11,6 +11,14 @@ nav_order: 5
         {% include figure.html path="assets/img/IMG_0239.jpg" alt="Ghost Quartet" class="img-fluid" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IMG_0307.jpg" alt="Ghost Quartet" class="img-fluid" %}
+    </div>
+</div>
+<div class="row no-gutters justify-content-sm-center" >
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/IMG_0339.jpg" alt="Ghost Quartet" class="img-fluid" %}
+    </div>
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.html path="assets/img/IMG_0312.jpg" alt="Ghost Quartet" class="img-fluid" %}
     </div>
 </div>
