@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b><a href='https://luisalmonacid.substack.com/'>Writer.</a></b> <b><a href='luisalmonacid.co.uk/producer'>Producer.</a></b> PR.
+subtitle: <b><a href='https://luisalmonacid.substack.com/'>Writer.</a></b> <b><a href='/producer'>Producer.</a></b> PR.
 
 profile:
   align: right
