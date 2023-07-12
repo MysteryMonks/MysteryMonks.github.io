@@ -6,7 +6,7 @@ description: A selection of the projects I have helped produce.
 nav: false
 nav_order: 5
 ---
-<div class="row">
+<div class="row" >
     <div class="col-4">
         {% include figure.html path="assets/img/IMG_0312.jpg" title="Ghost Quartet" class="img-fluid rounded z-depth-1" %}
     </div>
