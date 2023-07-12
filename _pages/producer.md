@@ -2,7 +2,7 @@
 layout: page
 permalink: /producer/
 title: Producer
-description: A selection of the projects I have helped produce.
+description: Below is a selection of images from a variety of  projects I have been involved in, showcasing my work as a versatile producer in theatre, live music, workshops, and events. 
 nav: false
 nav_order: 5
 ---
