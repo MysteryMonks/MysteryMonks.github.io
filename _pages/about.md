@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: Headshot by Courtney Campbell.>
+  address: Headshot by <a href = 'http://www.courtneycampbell.co.uk/'>Courtney Campbell</a>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
